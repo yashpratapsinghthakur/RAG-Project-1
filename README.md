@@ -130,6 +130,15 @@ Open the local URL shown in the terminal.
 - Improved document preview
 - Authentication and user management
 
-## License
+## Usage Restriction 
+Copying, reusing, modifying, or redistributing any part of this code **without explicit permission from the author is strictly prohibited**.
+This project and all associated files are the **intellectual property of the author**.
+No part of this repository may be copied, reused, modified, or redistributed
+without **prior written permission from the author**.
 
-This project is intended for learning and educational purposes.
+© 2026 Yash Thakur. All rights reserved.
+
+---
+
+## Author
+Yash Pratap Singh Thakur
