@@ -1,4 +1,4 @@
-# RAG-Project-1
+# Local RAG Assistant
 
 A Retrieval-Augmented Generation (RAG) application built with Streamlit that allows users to upload documents and ask questions based on their content. The application retrieves relevant document chunks using FAISS and generates answers using Google's Gemini API.
 
